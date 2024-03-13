@@ -3,7 +3,7 @@
 👩‍🎓Sou formada em técnica em telecomunicações pela ETE- Escola Técnica em Eletrônica "Francisco Moreira da Costa" desde 2008 e Graduada em Engenharia Elétrica pelo Inatel -Instituto Nacional de telecomunicações desde 2017.
 Ambas instituições são localizadas na cidade de Santa Rita do Sapucaí-MG mais conhecida como "O vale da eletrônica" uma cidade onde a tecnologia sempre foi seu diferencial e é onde resido atualmente. 
 
-Hoje sou Analista de Testes de Automação, com mais de 4 anos de experiência em empresas multinacionais dos segmento de Telecom e Bancário.
+Hoje atuo como Analista de Testes de Automação, possuo mais de 4 anos de experiência em empresas multinacionais dos segmento de Telecomunicações e Bancário.
                                                                                         
 
 
