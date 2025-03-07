@@ -9,7 +9,7 @@ Ambas instituições são localizadas na cidade de Santa Rita do Sapucaí-MG mai
 Hoje atuo como Analista de Testes de Automação, possuo mais de 4 anos de experiência em empresas multinacionais dos segmento de Telecomunicações e Bancário.
 
 
- 
+ ##
  
   <div style= display: inline block align="center">
     <p>👩‍💻 Conhecimento em: </p>
