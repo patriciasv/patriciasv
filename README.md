@@ -8,16 +8,7 @@ Ambas instituições são localizadas na cidade de Santa Rita do Sapucaí-MG mai
 
 Hoje atuo como Analista de Testes de Automação, possuo mais de 4 anos de experiência em empresas multinacionais dos segmento de Telecomunicações e Bancário.
 
-##
 
-<div align="center" >
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=patriciasv&theme=dracula&border_radius=4.9&locale=pt_BR)](https://git.io/streak-stats)
-
-</div>
-
-
- ##
  
  
   <div style= display: inline block align="center">
